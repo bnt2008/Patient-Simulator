@@ -7,7 +7,7 @@ The current model implemented is the simplest possible: Patients are created, ea
 
 The set of objects is designed so that you can customize the functions used to determine discontinuation, as well as relatively painlessly alter the alorithm for updating patients.  
 
-##Files
+## Files
 
 run simulation.r is the body of the program
 
