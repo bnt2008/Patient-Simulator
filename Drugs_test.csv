@@ -1,0 +1,27 @@
+Drug Name,Field Name,Value
+Chance 1ary Failure = .8,Chance of Primary Failure,0.8
+Chance 1ary Failure = .8,Time to Secondary Failure (years),4
+Chance 1ary Failure = .8,Chance of Use First Line,0.33
+Chance 1ary Failure = .8,Launched On,0
+Chance 1ary Failure = .5,Chance of Primary Failure,0.5
+Chance 1ary Failure = .5,Time to Secondary Failure (years),4
+Chance 1ary Failure = .5,Launched On,0
+Chance 1ary Failure = .5,Chance of Use First Line,0.33
+Chance 1ary Failure = .2,Chance of Primary Failure,0.2
+Chance 1ary Failure = .2,Time to Secondary Failure (years),8
+Chance 1ary Failure = .2,Launched On,0
+Chance 1ary Failure = .2,Chance of Use First Line,0.33
+Untreated,Chance of Primary Failure,0.85
+Untreated,Time to Secondary Failure (years),1
+Untreated,Chance of Use First Line,0.15
+Untreated,Launched On,0
+User Variable,Number of simulated patients,50
+User Variable,Number of periods per year,4
+User Variable,Start time (year),1
+User Variable,End time (year),20
+User Variable,Average Patient Time (years),20
+User Variable,Reuse Penalty,0.001
+User Variable,Population Growth Rate,0.01
+User Variable,Number of Cases,604700
+User Variable,Description,Vary 1ary failure - high penalty
+User Variable,File Name,Failure1ary-.001Penalty
